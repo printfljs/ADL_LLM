@@ -1,0 +1,9 @@
+window*.csv
+casas/
+deep_casas/
+deep_conv_lstm/
+MARBLE/
+LLM_segment_Acc/
+LLM_segment_A_0/
+experiment/
+*.local

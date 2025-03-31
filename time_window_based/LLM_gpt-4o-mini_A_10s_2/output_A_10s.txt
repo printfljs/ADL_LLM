@@ -1,0 +1,26 @@
+Classification Report:
+Micro-F1 Score (Global): 0.8434782608695652
+Macro-F1 Score (Class Average): 0.7114116599708438
+Weighted F1 Score (Weighted Average): 0.842752380057969
+Sample-average F1 Score (Sample Average): 0.8443474646716543
+Mean Jaccard Similarity: 0.8433083956774731
+
+F1 Score per Class:
+    leaving home: 0.9815950920245399
+
+    personal care: 0.8943488943488943
+
+    preparing breakfast: 0.5714285714285714
+
+    preparing dinner: 0.0
+
+    preparing lunch: 0.575
+
+    relaxing on couch: 0.9338677354709419
+
+    showering: 0.8
+
+    sleeping: 1.0
+
+    snacking: 0.6464646464646465
+

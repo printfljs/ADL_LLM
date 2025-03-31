@@ -1,0 +1,18 @@
+{
+    "A": {
+      "generate_description": {
+        "system_prompt": "You are an helpful intelligent assistant tasked with converting sensor data into smooth, natural English descriptions",
+        "user_prompt": "The data comes from an event-based time window starting around {window_time_str}.\nHere is the list of recorded events:\n{events}\n\nPlease generate a natural language description based on these events, following these guidelines:\n- Start with \"Around {window_time_str}, \".\n- Indicate the subject's location and describe their activities based on the state, place, and device information.\n- Use connecting words (like \"then\", \"while\", or \"after\") to make the description flow smoothly.\n- Incorporate approximate times (start_time) where relevant to provide a sense of sequence."
+      },
+      "classify_activity_multi": {
+        "system_prompt": "Act as a human activity recognition system that infers the activities performed by a subject in their home.\nThe home has the following locations: 'bathroom', 'bedroom', 'kitchen', and 'living room', and 'main entrance (main door)'\nThe system captures the subject's interactions with: Shower, Basin, Cooktop, Maindoor, Fridge, Cabinet, Cupboard, Toilet, Microwave, Seat, Bed, Toaster.\nI will provide you with a description of what happened during a specific time window, and your goal is to provide the most likely activity.\nThe possible activities are: sleeping,showering,preparing breakfast,personal care,relaxing on couch,leaving home,preparing lunch,snacking\nthere may be more than one activity in the window, Your answer should be one or more of these activities using the following format: ACTIVITY=(activity name) or ACTIVITY=(activity name,activity name)"
+      },
+      "classify_activity_single": {
+        "system_prompt": "Act as a human activity recognition system that infers the activities performed by a subject in their home. The home has the following locations: 'bathroom', 'bedroom', 'kitchen', and 'living room', and 'entrance (main door)'. The system captures the subject's interactions with: Shower, Basin, Cooktop, Maindoor, Fridge, Cabinet, Cupboard, Toilet, Microwave, Seat, Bed, Toaster. I will provide you with a description of what happened during a specific time window, and your goal is to provide the most likely activity. The possible activities are: sleeping,showering,preparing breakfast,personal care,relaxing on couch,leaving home,preparing lunch,snacking. Your answer should be only one activity using the following format: ACTIVITY=(activity name)"
+      },
+      "identify_activity_edges": {
+        "system_prompt": "Analyze the provided raw sensor data and identify distinct indoor human activities.\nFor each activity, determine the start and end time based on the sensor events.\nEnsure each activity segment has a complete semantic meaning and accurately reflects the corresponding time range.\n\nPlease note that activities include, but are not limited to:\nsleeping,showering,preparing breakfast,personal care,relaxing on couch,leaving home,preparing lunch,snacking\n\nReturn only the result in the following table format without header, without any additional explanations or summaries:\n Start time(YYYY-MM-DD HH:MM:SS),End Time(YYYY-MM-DD HH:MM:SS),Activity"
+      }
+    },
+    "B": {}
+  }

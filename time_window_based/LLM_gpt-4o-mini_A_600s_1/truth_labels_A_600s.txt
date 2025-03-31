@@ -1,0 +1,913 @@
+sleeping
+sleeping
+sleeping
+sleeping
+sleeping
+showering
+showering
+showering
+showering,preparing breakfast
+showering,preparing breakfast
+preparing breakfast
+preparing breakfast
+preparing breakfast
+preparing breakfast,personal care
+preparing breakfast,personal care,relaxing on couch
+personal care,relaxing on couch
+personal care,relaxing on couch
+personal care,relaxing on couch
+personal care,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+personal care
+personal care,relaxing on couch
+personal care,relaxing on couch
+personal care,relaxing on couch
+personal care,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+snacking,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+sleeping
+sleeping
+sleeping
+sleeping
+sleeping
+personal care
+personal care
+personal care
+personal care
+personal care,showering
+showering
+preparing breakfast
+preparing breakfast
+preparing breakfast
+preparing breakfast
+preparing breakfast
+preparing breakfast,personal care
+preparing breakfast,personal care
+personal care,relaxing on couch
+personal care,relaxing on couch
+personal care,relaxing on couch
+personal care,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch,personal care
+preparing lunch,personal care
+preparing lunch,personal care,relaxing on couch
+personal care,relaxing on couch
+personal care,relaxing on couch
+personal care,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home,relaxing on couch
+leaving home,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+sleeping
+sleeping
+sleeping
+sleeping
+sleeping
+showering
+showering
+showering
+showering,preparing breakfast
+showering,preparing breakfast
+preparing breakfast
+preparing breakfast
+preparing breakfast
+preparing breakfast
+preparing breakfast
+personal care
+personal care,relaxing on couch
+personal care,relaxing on couch
+personal care,relaxing on couch
+personal care,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+snacking,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home,personal care
+personal care,relaxing on couch
+personal care,relaxing on couch
+personal care,relaxing on couch
+personal care,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+sleeping
+sleeping
+sleeping
+sleeping
+sleeping
+personal care,showering
+personal care,showering
+showering
+showering
+showering
+showering
+showering
+preparing breakfast
+preparing breakfast
+preparing breakfast
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home,relaxing on couch
+leaving home,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+personal care,sleeping
+personal care,sleeping
+sleeping
+sleeping
+sleeping
+sleeping
+sleeping
+personal care,showering
+personal care,showering,preparing breakfast
+personal care,showering,preparing breakfast
+showering,preparing breakfast
+showering,preparing breakfast
+preparing breakfast
+preparing breakfast,relaxing on couch
+preparing breakfast,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+personal care,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+snacking,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+sleeping
+sleeping
+sleeping
+sleeping
+sleeping
+personal care,showering
+personal care,showering
+showering,preparing breakfast
+showering,preparing breakfast
+showering,preparing breakfast
+preparing breakfast
+preparing breakfast
+preparing breakfast,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+personal care
+personal care
+personal care
+personal care
+personal care
+personal care
+personal care
+personal care
+personal care
+personal care,leaving home
+leaving home
+leaving home
+leaving home
+leaving home,relaxing on couch
+leaving home,relaxing on couch
+leaving home,relaxing on couch
+leaving home,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+sleeping
+sleeping
+sleeping
+sleeping
+sleeping
+personal care
+personal care
+personal care,showering
+personal care,showering
+personal care,showering
+showering,preparing breakfast
+showering,preparing breakfast
+showering,preparing breakfast,relaxing on couch
+showering,preparing breakfast,relaxing on couch
+preparing breakfast,relaxing on couch
+preparing breakfast,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home,relaxing on couch
+leaving home,relaxing on couch
+leaving home,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+snacking,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch,personal care
+personal care
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+snacking,relaxing on couch
+snacking,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+personal care,sleeping
+sleeping
+sleeping
+sleeping
+sleeping
+sleeping
+personal care
+personal care,showering
+personal care,showering
+personal care,showering
+showering
+showering
+showering
+showering
+showering,preparing breakfast
+preparing breakfast
+preparing breakfast
+preparing breakfast
+preparing breakfast
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+personal care
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home,preparing lunch
+leaving home,preparing lunch
+leaving home,preparing lunch
+leaving home,preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch,personal care
+personal care,relaxing on couch
+personal care,relaxing on couch
+personal care,relaxing on couch
+personal care,relaxing on couch
+personal care,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+leaving home
+leaving home
+leaving home
+leaving home,relaxing on couch
+leaving home,relaxing on couch
+leaving home,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+sleeping
+sleeping
+sleeping
+sleeping
+sleeping
+personal care
+personal care
+personal care,showering
+personal care,showering
+personal care,showering
+personal care,showering
+showering
+showering
+showering
+showering
+showering
+preparing breakfast
+preparing breakfast
+preparing breakfast,relaxing on couch
+preparing breakfast,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+personal care
+personal care,relaxing on couch
+personal care,relaxing on couch
+personal care,relaxing on couch
+personal care,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+personal care
+personal care
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+sleeping
+sleeping
+sleeping
+sleeping
+sleeping
+personal care
+personal care
+personal care
+personal care
+personal care
+personal care,showering
+personal care,showering
+personal care,showering
+showering,preparing breakfast
+showering,preparing breakfast
+showering,preparing breakfast
+preparing breakfast
+preparing breakfast,relaxing on couch
+preparing breakfast,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+personal care,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+personal care
+personal care
+personal care,leaving home
+personal care,leaving home
+personal care,leaving home
+leaving home
+leaving home
+leaving home
+leaving home,personal care,relaxing on couch
+leaving home,personal care,relaxing on couch
+leaving home,personal care,relaxing on couch
+leaving home,personal care,relaxing on couch
+personal care,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+snacking
+snacking
+snacking
+snacking
+snacking
+snacking
+snacking,relaxing on couch
+snacking,relaxing on couch
+snacking,relaxing on couch
+snacking,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+sleeping
+sleeping
+sleeping
+sleeping
+sleeping
+personal care,showering,preparing breakfast
+personal care,showering,preparing breakfast
+showering,preparing breakfast
+showering,preparing breakfast
+showering,preparing breakfast
+preparing breakfast
+preparing breakfast,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+personal care
+personal care
+personal care
+personal care,leaving home
+personal care,leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home,relaxing on couch
+leaving home,relaxing on couch
+leaving home,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+personal care,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+personal care
+sleeping
+sleeping
+sleeping
+sleeping
+sleeping
+personal care,showering
+personal care,showering,preparing breakfast
+showering,preparing breakfast
+showering,preparing breakfast
+showering,preparing breakfast
+preparing breakfast,relaxing on couch
+preparing breakfast,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+personal care
+personal care,leaving home
+personal care,leaving home
+personal care,leaving home
+personal care,leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+sleeping
+sleeping
+sleeping
+sleeping
+sleeping
+personal care
+personal care
+personal care
+personal care
+personal care
+personal care,showering
+personal care,showering
+personal care,showering
+personal care,showering
+personal care,showering,preparing breakfast
+showering,preparing breakfast
+showering,preparing breakfast
+showering,preparing breakfast
+preparing breakfast,relaxing on couch
+preparing breakfast,relaxing on couch
+preparing breakfast,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+personal care
+personal care
+personal care
+personal care
+personal care
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home
+leaving home,relaxing on couch
+leaving home,relaxing on couch
+leaving home,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+personal care,leaving home
+personal care,leaving home
+personal care,leaving home
+leaving home
+leaving home
+leaving home
+leaving home,relaxing on couch
+leaving home,relaxing on couch
+leaving home,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+personal care,sleeping
+sleeping
+sleeping
+sleeping
+sleeping
+sleeping
+personal care,showering
+personal care,showering
+personal care,showering
+showering
+showering
+showering
+showering
+showering,preparing breakfast
+preparing breakfast
+preparing breakfast
+preparing breakfast,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+preparing lunch
+personal care
+personal care,relaxing on couch
+personal care,relaxing on couch
+personal care,relaxing on couch
+personal care,relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
+relaxing on couch
