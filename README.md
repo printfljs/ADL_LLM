@@ -1,29 +1,40 @@
-**Project Description**
+## Environment Requirements
 
-This project includes two methods for segmenting time-series data: one based on time windows and the other based on activity windows, with implementations for different datasets.
+- Python 3.9.2  
+---
 
-**Environment Requirements**
+## Installation
 
--   Python 3.19.2
+Install the required Python packages using:
 
-**Environment Variable Configuration**
-
-Create a `.env` file in the root directory and add your API key:
-
+```bash
+pip install -r requirements.txt
 ```
+
+---
+
+## API Key Configuration
+
+To run the main program, you need to provide an OpenAI API key.
+
+1. Create a `.env` file in the root directory.  
+2. Add the following line:
+
+```env
 OPENAI_API_KEY=your_api_key_here
 ```
 
-**Code Description**
+---
 
-**Time Window-Based Segmentation**
+## Running the Code
 
--   Path: `time_window_based/*.ipynb`
--   Description: This Jupyter Notebook contains code for segmenting time-series data using fixed time windows.
--   Files ending in '_A' are from Dataset A, the primary dataset
+Navigate to the `experiment_llm_boundry/` directory and run the main script:
 
-**Activity Window-Based Segmentation**
+```bash
+cd experiment_llm_boundry
+python main.py
+```
 
--   Path: `activity_window_based/*.ipynb`
--   Description: This Jupyter Notebook contains code for segmenting data based on activity windows
--   Files ending in '_A' are from Dataset A, the primary dataset
+- The prompts and experiment parameters can be configured in the `config.json` file.
+
+---

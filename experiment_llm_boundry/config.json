@@ -1,0 +1,18 @@
+{
+  "dataset": {
+    "dataset_name": "ordoneza",
+    "dataset_part": "A",
+    "data_dir": "LLM_boundry"
+  },
+  "lists": {
+    "locations": ["bathroom", "bedroom", "kitchen", "living room", "entrance (main door)"],
+    "devices": ["Shower", "Basin", "Cooktop", "Maindoor", "Fridge", "Cabinet", "Cupboard", "Toilet", "Microwave", "Seat", "Bed", "Toaster"],
+    "activities": ["sleeping", "showering", "preparing breakfast", "personal care", "relaxing on couch", "leaving home", "preparing lunch", "snacking"],
+    "edge_activities": ["sleeping", "showering", "preparing breakfast", "personal care", "relaxing on couch", "leaving home", "preparing lunch", "preparing dinner", "snacking"]
+  },
+  "prompts": {
+    "description_prompt": "The data comes from an event-based time window starting around {window_time_str}.\nHere is the list of recorded events:\n{events}\n\nPlease generate a natural language description based on these events, following these guidelines:\n- Start with \"Around {window_time_str}, \".\n- Indicate the subject's location and describe their activities based on the state, place, and device information.\n- Use connecting words (like \"then\", \"while\", or \"after\") to make the description flow smoothly.\n- Incorporate approximate times (start_time) where relevant to provide a sense of sequence.",
+    "classification_system_prompt_template": "Act as a human activity recognition system that infers the activities performed by a subject in their home.\nThe home has the following locations: {locations_str}\nThe system captures the subject's interactions with: {devices_str}\nI will provide you with a description of what happened during a specific time window, and your goal is to provide the most likely activity.\nThe possible activities are: {activities_str}\nYour answer should be only one activity using the following format: ACTIVITY=(activity name)",
+    "activity_edges_prompt": "Analyze the provided raw sensor data and identify distinct indoor human activities.\nFor each activity, determine the start and end times based on the sensor events.\nEnsure each activity segment has a complete semantic meaning and accurately reflects the corresponding time range.\n\nPlease note that activities include, but are not limited to:\n{edge_activities_str}\n\nReturn only the result in the following table format without header, without any additional explanations or summaries:\nStart time(YYYY-MM-DD HH:MM:SS),End time(YYYY-MM-DD HH:MM:SS),Activity"
+  }
+}

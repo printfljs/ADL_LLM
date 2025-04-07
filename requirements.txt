@@ -3,5 +3,5 @@ dotenv==0.9.9
 # Jinja2==3.1.5
 # huggingface-hub==0.28.1
 openai==1.63.0
-requests==2.32.3
-transformers==4.49.0
+# requests==2.32.3
+# transformers==4.49.0
