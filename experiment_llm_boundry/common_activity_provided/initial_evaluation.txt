@@ -1,0 +1,100 @@
+Classification Report:
+Micro-F1 Score (Global): 0.047244094488188976
+Macro-F1 Score (Class Average): 0.015050167224080268
+Weighted F1 Score (Weighted Average): 0.04798172124904798
+Sample-average F1 Score (Sample Average): 0.04376163873370577
+Mean Jaccard Similarity: 0.040968342644320296
+
+F1 Score per Class:
+    Bathing: 0.0
+
+    Bathroom Activity: 0.0
+
+    Cooking: 0.0
+
+    Cooking (Cooktop): 0.0
+
+    Cooking (Microwave): 0.0
+
+    Cooking (Toaster): 0.0
+
+    Entering: 0.0
+
+    Entering Home: 0.0
+
+    Getting Food: 0.0
+
+    Kitchen Activity: 0.0
+
+    Leaving Home: 0.0
+
+    Opening Cupboard: 0.0
+
+    Opening Fridge: 0.0
+
+    Personal Care: 0.0
+
+    Personal Hygiene: 0.0
+
+    Preparing Food: 0.0
+
+    Relaxing: 0.0
+
+    Returning Home: 0.0
+
+    Sleeping: 0.0
+
+    Taking Shower: 0.0
+
+    Using Basin: 0.0
+
+    Using Bathroom: 0.0
+
+    Using Bathroom Basin: 0.0
+
+    Using Bathroom Cabinet: 0.0
+
+    Using Cabinet: 0.0
+
+    Using Cupboard: 0.0
+
+    Using Fridge: 0.0
+
+    Using Toilet: 0.0
+
+    checking cupboard: 0.0
+
+    cooking: 0.0
+
+    entering home: 0.0
+
+    leaving home: 0.0
+
+    personal care: 0.0
+
+    preparing breakfast: 0.0
+
+    preparing lunch: 0.0
+
+    relaxing: 0.0
+
+    relaxing on couch: 0.0
+
+    showering: 0.0
+
+    sleeping: 0.6923076923076923
+
+    snacking: 0.0
+
+    taking a shower: 0.0
+
+    taking shower: 0.0
+
+    using basin: 0.0
+
+    using bathroom: 0.0
+
+    using kitchen: 0.0
+
+    using toilet: 0.0
+

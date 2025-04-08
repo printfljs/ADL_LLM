@@ -12,8 +12,6 @@ F1 Score per Class:
 
     preparing breakfast: 0.7272727272727273
 
-    preparing dinner: 0.0
-
     preparing lunch: 0.6666666666666666
 
     relaxing on couch: 0.987012987012987

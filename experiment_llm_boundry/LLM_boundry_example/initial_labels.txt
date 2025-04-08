@@ -21,13 +21,10 @@ relaxing on couch
 preparing lunch
 relaxing on couch
 preparing lunch
-preparing dinner
-preparing lunch
 relaxing on couch
 relaxing on couch
 relaxing on couch
 leaving home
-returning home
 relaxing on couch
 sleeping
 showering
@@ -38,13 +35,13 @@ snacking
 relaxing on couch
 preparing lunch
 relaxing on couch
-Preparing Snack
-Relaxing on Couch
-Bathing
-Relaxing on Couch
-Relaxing on Couch
-Leaving Home
-Bathing
+snacking
+relaxing on couch
+personal care
+relaxing on couch
+relaxing on couch
+leaving home
+personal care
 relaxing on couch
 sleeping
 personal care
@@ -55,6 +52,7 @@ preparing lunch
 Snacking
 Relaxing on couch
 Personal care
+Showering
 Leaving home
 Relaxing on couch
 Relaxing on couch
@@ -68,6 +66,7 @@ Personal Care
 Showering
 Preparing Breakfast
 Relaxing on Couch
+Snacking
 Preparing Lunch
 relaxing on couch
 personal care
@@ -114,16 +113,14 @@ relaxing on couch
 personal care
 leaving home
 preparing lunch
-Bathing
-Using Toilet
-Relaxing on Couch
-Relaxing on Couch
-Leaving Home
-Returning Home
-Relaxing on Couch
-Getting Snack
-Relaxing on Couch
-Bathing
+personal care
+relaxing on couch
+relaxing on couch
+leaving home
+relaxing on couch
+snacking
+relaxing on couch
+personal care
 relaxing on couch
 personal care
 sleeping
@@ -131,16 +128,14 @@ sleeping
 personal care
 showering
 preparing breakfast
-Preparing lunch
-Relaxing on couch
-Preparing lunch
-Preparing dinner
-Personal care
-Relaxing on couch
+relaxing on couch
+preparing lunch
+personal care
+relaxing on couch
 relaxing on couch
 personal care
 relaxing on couch
-preparing dinner
+snacking
 personal care
 relaxing on couch
 personal care
@@ -191,16 +186,15 @@ relaxing on couch
 personal care
 relaxing on couch
 leaving home
-Leaving home
-Relaxing on couch
-Personal care
-Relaxing on couch
-Personal care
-Relaxing on couch
-Sleeping
-Personal care
-Showering
-Snacking
+relaxing on couch
+personal care
+relaxing on couch
+personal care
+relaxing on couch
+sleeping
+personal care
+showering
+snacking
 preparing breakfast
 relaxing on couch
 personal care
@@ -215,8 +209,8 @@ Personal Care
 Showering
 Preparing Breakfast
 Relaxing on Couch
-Personal Care
 Preparing Lunch
+Preparing Dinner
 Snacking
 Personal Care
 Relaxing on Couch

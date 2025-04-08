@@ -1,0 +1,322 @@
+Bed Rest
+Shower
+Fridge Open
+Cupboard Open
+Toasting
+Cooktop Use
+Microwave Use
+Hand Washing
+Seated Activity
+Entering Home
+Sitting
+Using Fridge
+Using Cupboard
+Cooking
+Using Cupboard
+Using Fridge
+Using Basin
+Sitting
+Using Basin
+Sitting
+Seating
+Sleeping
+Using Basin
+Accessing Cabinet
+Taking Shower
+Accessing Cupboard
+Using Toaster
+Accessing Fridge
+Using Microwave
+Accessing Cabinet
+Using Basin
+Using Toilet
+Seating in Living Room
+Opening Fridge in Kitchen
+Seating in Living Room
+Opening Cupboard in Kitchen
+Cooking in Kitchen
+Using Microwave in Kitchen
+Opening Cupboard in Kitchen
+Opening Fridge in Kitchen
+Opening Cupboard in Kitchen
+Opening Fridge in Kitchen
+Using Basin in Bathroom
+Seating in Living Room
+Sitting in living room
+Sitting in living room
+Entering through main door
+Exiting through main door
+Sitting in living room
+Sleeping in bed
+Taking a shower
+Opening cupboard
+Checking fridge
+Using microwave
+Using toaster
+Bathing
+Opening Cabinet
+Sitting in Living Room
+Opening Fridge
+Sitting in Living Room
+Sitting in Living Room
+Cooking
+Opening Cupboard
+Opening Fridge
+Sitting in Living Room
+Using Fridge
+Sitting
+Using Toilet
+Sitting
+Sitting
+Entering
+Bathing
+Seating
+Sleeping
+Using Toilet
+Accessing Cabinet
+Using Basin
+Taking Shower
+Using Toaster
+Seating
+Using Basin
+Cooking
+Using Microwave
+Accessing Fridge
+Seating
+Using Toilet
+Using Basin
+Entering
+Seating
+Seating
+Using Basin
+Seating
+Using Basin
+Seating
+Using Basin
+Bed Rest
+Toilet Flush
+Hand Washing
+Shower
+Cupboard Access
+Fridge Access
+Toasting
+Microwaving
+Seating
+Fridge Access
+Cooking
+Microwaving
+Fridge Access
+Seating in Living Room
+Using Bathroom Basin
+Seating in Living Room
+Using Bathroom Toilet
+Seating in Living Room
+Using Kitchen Fridge
+Seating in Living Room
+Seating in Living Room
+Sleeping in Bedroom
+Using Bathroom Toilet
+Using Bathroom Cabinet
+Using Bathroom Basin
+Taking Shower
+Using Toaster
+Opening Cupboard
+Using Fridge
+Using Microwave
+Sitting in Living Room
+Using Bathroom Basin
+Sitting in Living Room
+Using Bathroom Basin
+Entering House
+Sitting in Living Room
+Entering House
+Sitting in Living Room
+Flushing Toilet
+Sitting in Living Room
+Bed Rest
+Toilet Use
+Cabinet Access
+Basin Use
+Shower
+Fridge Access
+Cupboard Access
+Microwave Use
+Toaster Use
+Seating
+Entrance Access
+Seating
+Fridge Access
+Seating in Living Room
+Using Bathroom Basin
+Seating in Living Room
+Using Kitchen Fridge
+Seating in Living Room
+Seating in Living Room
+Using Bathroom Basin
+Sleeping in Bedroom
+Using Bathroom Basin
+Taking Shower in Bathroom
+Cupboard Opening
+Fridge Opening
+Using Toaster
+Using Microwave
+Seating
+Using Basin
+Entering
+Exiting
+Fridge Opening
+Cupboard Opening
+Cooking
+Using Microwave
+Fridge Opening
+Open Fridge
+Open Cupboard
+Using Basin
+Flush Toilet
+Sitting on Seat
+Sitting on Seat
+Open Maindoor
+Sitting on Seat
+Open Fridge
+Sitting on Seat
+Using Basin
+Toilet Flush
+Seat Pressure
+Toilet Flush
+Basin PIR
+Seat Pressure
+Bed Pressure
+Basin PIR
+Cabinet Magnetic
+Basin PIR
+Shower
+Toaster Electric
+Opening cupboard
+Opening fridge
+Using microwave
+Sitting
+Opening cupboard
+Cooking
+Using microwave
+Opening fridge
+Using basin
+Sitting
+Seating in Living Room
+Using Bathroom Basin
+Seating in Living Room
+Accessing Kitchen Fridge
+Using Bathroom Basin
+Seating in Living Room
+Using Bathroom Basin
+Seating in Living Room
+Sleeping in Bedroom
+Accessing Bathroom Cabinet
+Using Bathroom Basin
+Accessing Bathroom Cabinet
+Taking Shower
+Using Toaster
+Accessing Cupboard
+Accessing Fridge
+Using Microwave
+Sitting
+Accessing Cupboard
+Using Cooktop
+Using Microwave
+Accessing Fridge
+Accessing Cupboard
+Accessing Fridge
+Sitting
+Using Basin
+Using Toilet
+Seating in Living Room
+Using Bathroom Basin
+Entering the House
+Exiting the House
+Using Bathroom Basin
+Seating in Living Room
+Accessing Kitchen Fridge
+Accessing Kitchen Cupboard
+Accessing Kitchen Fridge
+Accessing Kitchen Cupboard
+Accessing Kitchen Fridge
+Seating in Living Room
+Sitting in the living room
+Sitting in the living room
+Sleeping in the bedroom
+Using the bathroom sink
+Flushing the toilet
+Opening the bathroom cabinet
+Using the bathroom sink
+Taking a shower
+Using the toaster in the kitchen
+Opening the kitchen cupboard
+Opening the fridge
+Cooking on the cooktop
+Using the microwave
+Seating
+Using Basin
+Entering
+Seating
+Using Basin
+Seating
+Using Basin
+Seating
+Using Basin
+Sleeping
+Using Cabinet
+Using Basin
+Taking Shower
+Cooking
+Opening Cupboard
+Using Fridge
+Using Cooktop
+Using Microwave
+Sitting in Living Room
+Using Bathroom Basin
+Entering Home
+Exiting Home
+Sitting in Living Room
+Sitting in Living Room
+Using Bathroom Basin
+Sitting in Living Room
+Exiting Home
+Entering the house
+Sitting in the living room
+Using the bathroom basin
+Sitting in the living room
+Using the bathroom basin
+Sitting in the living room
+Sleeping in the bedroom
+Using the bathroom cabinet
+Using the bathroom basin
+Using the bathroom cabinet
+Using the bathroom basin
+Taking a shower
+Using the kitchen cupboard
+Using Toaster
+Opening Cupboard
+Accessing Fridge
+Using Microwave
+Using Cooktop
+Sitting in Living Room
+Using Bathroom Basin
+Opening Main Door
+Sitting in Living Room
+Using Bathroom Basin
+Opening Main Door
+Sitting in Living Room
+Using Bathroom Basin
+Bed Rest
+Hand Washing
+Showering
+Using Toaster
+Opening Cupboard
+Using Fridge
+Using Microwave
+Seated Activity
+Opening Cupboard
+Cooking
+Opening Cupboard
+Using Fridge
+Basin Use
+Seated in Living Room

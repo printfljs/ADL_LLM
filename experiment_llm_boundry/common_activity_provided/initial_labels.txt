@@ -1,0 +1,179 @@
+Sleeping
+Taking Shower
+Preparing Food
+Cooking
+Using Bathroom
+Relaxing
+relaxing
+cooking
+relaxing
+sleeping
+using basin
+taking shower
+checking cupboard
+cooking
+using basin
+using toilet
+relaxing
+cooking
+relaxing
+cooking
+relaxing
+relaxing
+sleeping
+cooking
+Bathroom Activity
+Relaxing
+Kitchen Activity
+Relaxing
+Relaxing
+Cooking
+Relaxing
+relaxing
+cooking
+relaxing
+Sleeping
+Using Toilet
+Using Bathroom Cabinet
+Using Bathroom Basin
+Taking Shower
+Cooking
+Relaxing
+Cooking
+relaxing
+sleeping
+relaxing
+Sleeping
+Using Toilet
+Taking Shower
+Opening Cupboard
+Opening Fridge
+Cooking (Toaster)
+Cooking (Microwave)
+Relaxing
+Opening Fridge
+Cooking (Cooktop)
+Cooking (Microwave)
+Opening Fridge
+relaxing
+using bathroom
+relaxing
+using bathroom
+relaxing
+cooking
+relaxing
+relaxing
+sleeping
+using bathroom
+taking shower
+Cooking
+Relaxing
+Using Bathroom
+Relaxing
+Using Bathroom
+Entering Home
+Relaxing
+Entering Home
+Relaxing
+Using Bathroom
+Sleeping
+Using Toilet
+Using Cabinet
+Using Basin
+Taking Shower
+Using Fridge
+Using Cupboard
+Cooking
+Relaxing
+Entering Home
+Relaxing
+Using Fridge
+relaxing
+sleeping
+cooking
+cooking
+relaxing
+cooking
+Bathing
+Using Toilet
+Relaxing
+Relaxing
+Leaving Home
+Returning Home
+Relaxing
+Getting Food
+Relaxing
+Bathing
+relaxing
+sleeping
+taking a shower
+cooking
+Cooking
+Relaxing
+Cooking
+Personal Hygiene
+Relaxing
+relaxing
+cooking
+relaxing
+cooking
+sleeping
+cooking
+relaxing
+sleeping
+cooking
+Cooking
+Relaxing
+Cooking
+Relaxing
+Using Bathroom
+relaxing
+using bathroom
+entering home
+using bathroom
+relaxing
+cooking
+relaxing
+sleeping
+using bathroom
+taking shower
+cooking
+relaxing
+cooking
+relaxing
+cooking
+relaxing
+cooking
+sleeping
+cooking
+sleeping
+cooking
+Cooking
+Relaxing
+Using Bathroom
+Relaxing
+relaxing
+using bathroom
+relaxing
+using bathroom
+relaxing
+sleeping
+using bathroom
+taking shower
+using kitchen
+Cooking
+Relaxing
+Personal Care
+Entering
+Relaxing
+Personal Care
+Entering
+Relaxing
+Personal Care
+Sleeping
+Using Basin
+Taking Shower
+Cooking
+Relaxing
+Cooking
+relaxing

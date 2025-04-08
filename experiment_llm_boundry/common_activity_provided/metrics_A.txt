@@ -1,0 +1,716 @@
+Window 1:
+Description Time: 1.42s, Tokens: 231
+Classification Time: 0.87s, Tokens: 240
+
+Window 2:
+Description Time: 1.12s, Tokens: 238
+Classification Time: 1.82s, Tokens: 246
+
+Window 3:
+Description Time: 2.62s, Tokens: 294
+Classification Time: 1.00s, Tokens: 260
+
+Window 4:
+Description Time: 2.12s, Tokens: 483
+Classification Time: 0.63s, Tokens: 320
+
+Window 5:
+Description Time: 1.18s, Tokens: 244
+Classification Time: 0.66s, Tokens: 252
+
+Window 6:
+Description Time: 1.53s, Tokens: 261
+Classification Time: 4.49s, Tokens: 274
+
+Window 7:
+Description Time: 1.35s, Tokens: 247
+Classification Time: 2.08s, Tokens: 260
+
+Window 8:
+Description Time: 2.07s, Tokens: 370
+Classification Time: 1.12s, Tokens: 292
+
+Window 9:
+Description Time: 2.56s, Tokens: 517
+Classification Time: 0.79s, Tokens: 359
+
+Window 10:
+Description Time: 0.99s, Tokens: 231
+Classification Time: 1.48s, Tokens: 240
+
+Window 11:
+Description Time: 1.45s, Tokens: 291
+Classification Time: 0.50s, Tokens: 255
+
+Window 12:
+Description Time: 2.80s, Tokens: 250
+Classification Time: 0.65s, Tokens: 258
+
+Window 13:
+Description Time: 1.61s, Tokens: 294
+Classification Time: 1.89s, Tokens: 261
+
+Window 14:
+Description Time: 2.93s, Tokens: 429
+Classification Time: 0.64s, Tokens: 310
+
+Window 15:
+Description Time: 1.43s, Tokens: 240
+Classification Time: 0.54s, Tokens: 248
+
+Window 16:
+Description Time: 1.90s, Tokens: 225
+Classification Time: 0.71s, Tokens: 235
+
+Window 17:
+Description Time: 1.49s, Tokens: 250
+Classification Time: 1.14s, Tokens: 263
+
+Window 18:
+Description Time: 1.26s, Tokens: 232
+Classification Time: 0.77s, Tokens: 245
+
+Window 19:
+Description Time: 1.58s, Tokens: 241
+Classification Time: 1.16s, Tokens: 254
+
+Window 20:
+Description Time: 4.33s, Tokens: 464
+Classification Time: 2.02s, Tokens: 341
+
+Window 21:
+Description Time: 1.21s, Tokens: 240
+Classification Time: 0.69s, Tokens: 253
+
+Window 22:
+Description Time: 3.23s, Tokens: 654
+Classification Time: 1.07s, Tokens: 418
+
+Window 23:
+Description Time: 1.36s, Tokens: 249
+Classification Time: 0.60s, Tokens: 258
+
+Window 24:
+Description Time: 1.49s, Tokens: 236
+Classification Time: 0.82s, Tokens: 244
+
+Window 25:
+Description Time: 1.71s, Tokens: 294
+Classification Time: 0.83s, Tokens: 258
+
+Window 26:
+Description Time: 1.75s, Tokens: 256
+Classification Time: 0.66s, Tokens: 269
+
+Window 27:
+Description Time: 2.28s, Tokens: 232
+Classification Time: 0.85s, Tokens: 245
+
+Window 28:
+Description Time: 1.71s, Tokens: 260
+Classification Time: 1.70s, Tokens: 273
+
+Window 29:
+Description Time: 2.57s, Tokens: 239
+Classification Time: 0.55s, Tokens: 252
+
+Window 30:
+Description Time: 3.91s, Tokens: 492
+Classification Time: 0.87s, Tokens: 328
+
+Window 31:
+Description Time: 1.41s, Tokens: 255
+Classification Time: 0.58s, Tokens: 268
+
+Window 32:
+Description Time: 2.03s, Tokens: 259
+Classification Time: 0.73s, Tokens: 272
+
+Window 33:
+Description Time: 4.00s, Tokens: 356
+Classification Time: 1.90s, Tokens: 286
+
+Window 34:
+Description Time: 4.12s, Tokens: 743
+Classification Time: 2.17s, Tokens: 424
+
+Window 35:
+Description Time: 1.92s, Tokens: 308
+Classification Time: 0.65s, Tokens: 281
+
+Window 36:
+Description Time: 1.33s, Tokens: 335
+Classification Time: 0.70s, Tokens: 257
+
+Window 37:
+Description Time: 2.84s, Tokens: 275
+Classification Time: 1.65s, Tokens: 241
+
+Window 38:
+Description Time: 2.31s, Tokens: 273
+Classification Time: 1.04s, Tokens: 239
+
+Window 39:
+Description Time: 1.30s, Tokens: 252
+Classification Time: 0.85s, Tokens: 260
+
+Window 40:
+Description Time: 1.71s, Tokens: 412
+Classification Time: 0.97s, Tokens: 293
+
+Window 41:
+Description Time: 1.63s, Tokens: 312
+Classification Time: 0.76s, Tokens: 284
+
+Window 42:
+Description Time: 1.72s, Tokens: 313
+Classification Time: 2.05s, Tokens: 278
+
+Window 43:
+Description Time: 3.71s, Tokens: 770
+Classification Time: 0.93s, Tokens: 464
+
+Window 44:
+Description Time: 1.38s, Tokens: 248
+Classification Time: 0.64s, Tokens: 261
+
+Window 45:
+Description Time: 1.31s, Tokens: 242
+Classification Time: 0.68s, Tokens: 255
+
+Window 46:
+Description Time: 1.23s, Tokens: 231
+Classification Time: 0.85s, Tokens: 240
+
+Window 47:
+Description Time: 1.37s, Tokens: 349
+Classification Time: 0.57s, Tokens: 271
+
+Window 48:
+Description Time: 1.26s, Tokens: 248
+Classification Time: 0.51s, Tokens: 256
+
+Window 49:
+Description Time: 1.40s, Tokens: 292
+Classification Time: 1.63s, Tokens: 258
+
+Window 50:
+Description Time: 1.63s, Tokens: 248
+Classification Time: 0.76s, Tokens: 261
+
+Window 51:
+Description Time: 2.11s, Tokens: 297
+Classification Time: 0.59s, Tokens: 265
+
+Window 52:
+Description Time: 2.99s, Tokens: 297
+Classification Time: 0.61s, Tokens: 265
+
+Window 53:
+Description Time: 1.41s, Tokens: 254
+Classification Time: 1.12s, Tokens: 267
+
+Window 54:
+Description Time: 1.35s, Tokens: 241
+Classification Time: 0.72s, Tokens: 251
+
+Window 55:
+Description Time: 2.37s, Tokens: 450
+Classification Time: 1.56s, Tokens: 329
+
+Window 56:
+Description Time: 2.16s, Tokens: 313
+Classification Time: 0.58s, Tokens: 278
+
+Window 57:
+Description Time: 2.03s, Tokens: 357
+Classification Time: 0.79s, Tokens: 279
+
+Window 58:
+Description Time: 1.18s, Tokens: 240
+Classification Time: 0.58s, Tokens: 253
+
+Window 59:
+Description Time: 1.19s, Tokens: 240
+Classification Time: 0.73s, Tokens: 248
+
+Window 60:
+Description Time: 1.46s, Tokens: 247
+Classification Time: 0.66s, Tokens: 260
+
+Window 61:
+Description Time: 1.23s, Tokens: 278
+Classification Time: 0.75s, Tokens: 252
+
+Window 62:
+Description Time: 1.25s, Tokens: 278
+Classification Time: 0.67s, Tokens: 252
+
+Window 63:
+Description Time: 2.01s, Tokens: 235
+Classification Time: 0.52s, Tokens: 245
+
+Window 64:
+Description Time: 2.66s, Tokens: 249
+Classification Time: 0.52s, Tokens: 262
+
+Window 65:
+Description Time: 2.13s, Tokens: 256
+Classification Time: 0.50s, Tokens: 269
+
+Window 66:
+Description Time: 2.09s, Tokens: 235
+Classification Time: 0.60s, Tokens: 244
+
+Window 67:
+Description Time: 1.39s, Tokens: 348
+Classification Time: 0.88s, Tokens: 270
+
+Window 68:
+Description Time: 1.09s, Tokens: 238
+Classification Time: 0.50s, Tokens: 246
+
+Window 69:
+Description Time: 3.37s, Tokens: 454
+Classification Time: 2.42s, Tokens: 342
+
+Window 70:
+Description Time: 1.55s, Tokens: 259
+Classification Time: 1.07s, Tokens: 272
+
+Window 71:
+Description Time: 2.11s, Tokens: 235
+Classification Time: 0.55s, Tokens: 243
+
+Window 72:
+Description Time: 2.12s, Tokens: 239
+Classification Time: 0.77s, Tokens: 252
+
+Window 73:
+Description Time: 1.44s, Tokens: 236
+Classification Time: 0.61s, Tokens: 244
+
+Window 74:
+Description Time: 1.61s, Tokens: 301
+Classification Time: 0.59s, Tokens: 268
+
+Window 75:
+Description Time: 1.49s, Tokens: 254
+Classification Time: 0.58s, Tokens: 267
+
+Window 76:
+Description Time: 1.34s, Tokens: 247
+Classification Time: 0.73s, Tokens: 257
+
+Window 77:
+Description Time: 1.49s, Tokens: 260
+Classification Time: 0.97s, Tokens: 273
+
+Window 78:
+Description Time: 2.02s, Tokens: 294
+Classification Time: 0.74s, Tokens: 268
+
+Window 79:
+Description Time: 1.81s, Tokens: 379
+Classification Time: 0.54s, Tokens: 310
+
+Window 80:
+Description Time: 1.59s, Tokens: 288
+Classification Time: 1.80s, Tokens: 254
+
+Window 81:
+Description Time: 1.67s, Tokens: 288
+Classification Time: 0.66s, Tokens: 254
+
+Window 82:
+Description Time: 1.26s, Tokens: 236
+Classification Time: 0.44s, Tokens: 244
+
+Window 83:
+Description Time: 2.93s, Tokens: 238
+Classification Time: 0.47s, Tokens: 246
+
+Window 84:
+Description Time: 1.30s, Tokens: 235
+Classification Time: 0.54s, Tokens: 245
+
+Window 85:
+Description Time: 1.13s, Tokens: 221
+Classification Time: 0.64s, Tokens: 230
+
+Window 86:
+Description Time: 2.08s, Tokens: 304
+Classification Time: 0.69s, Tokens: 278
+
+Window 87:
+Description Time: 1.39s, Tokens: 236
+Classification Time: 0.73s, Tokens: 249
+
+Window 88:
+Description Time: 2.91s, Tokens: 316
+Classification Time: 0.64s, Tokens: 283
+
+Window 89:
+Description Time: 2.16s, Tokens: 246
+Classification Time: 1.96s, Tokens: 259
+
+Window 90:
+Description Time: 1.38s, Tokens: 236
+Classification Time: 0.49s, Tokens: 246
+
+Window 91:
+Description Time: 3.34s, Tokens: 632
+Classification Time: 1.12s, Tokens: 409
+
+Window 92:
+Description Time: 2.58s, Tokens: 377
+Classification Time: 0.67s, Tokens: 309
+
+Window 93:
+Description Time: 2.47s, Tokens: 252
+Classification Time: 1.19s, Tokens: 260
+
+Window 94:
+Description Time: 2.41s, Tokens: 484
+Classification Time: 0.62s, Tokens: 322
+
+Window 95:
+Description Time: 3.14s, Tokens: 429
+Classification Time: 0.69s, Tokens: 319
+
+Window 96:
+Description Time: 3.53s, Tokens: 537
+Classification Time: 0.61s, Tokens: 372
+
+Window 97:
+Description Time: 1.45s, Tokens: 245
+Classification Time: 0.91s, Tokens: 253
+
+Window 98:
+Description Time: 2.49s, Tokens: 289
+Classification Time: 1.89s, Tokens: 263
+
+Window 99:
+Description Time: 2.56s, Tokens: 290
+Classification Time: 0.70s, Tokens: 264
+
+Window 100:
+Description Time: 1.44s, Tokens: 254
+Classification Time: 0.51s, Tokens: 267
+
+Window 101:
+Description Time: 1.77s, Tokens: 294
+Classification Time: 0.62s, Tokens: 261
+
+Window 102:
+Description Time: 1.42s, Tokens: 292
+Classification Time: 0.90s, Tokens: 262
+
+Window 103:
+Description Time: 1.54s, Tokens: 240
+Classification Time: 0.90s, Tokens: 253
+
+Window 104:
+Description Time: 1.70s, Tokens: 235
+Classification Time: 1.55s, Tokens: 244
+
+Window 105:
+Description Time: 1.43s, Tokens: 242
+Classification Time: 1.11s, Tokens: 255
+
+Window 106:
+Description Time: 1.36s, Tokens: 234
+Classification Time: 1.22s, Tokens: 242
+
+Window 107:
+Description Time: 2.10s, Tokens: 249
+Classification Time: 0.79s, Tokens: 262
+
+Window 108:
+Description Time: 2.73s, Tokens: 440
+Classification Time: 0.63s, Tokens: 330
+
+Window 109:
+Description Time: 1.52s, Tokens: 239
+Classification Time: 0.74s, Tokens: 247
+
+Window 110:
+Description Time: 2.18s, Tokens: 422
+Classification Time: 0.64s, Tokens: 303
+
+Window 111:
+Description Time: 2.40s, Tokens: 422
+Classification Time: 0.60s, Tokens: 303
+
+Window 112:
+Description Time: 2.12s, Tokens: 266
+Classification Time: 5.62s, Tokens: 279
+
+Window 113:
+Description Time: 3.06s, Tokens: 439
+Classification Time: 0.62s, Tokens: 317
+
+Window 114:
+Description Time: 1.33s, Tokens: 240
+Classification Time: 0.62s, Tokens: 248
+
+Window 115:
+Description Time: 1.43s, Tokens: 232
+Classification Time: 0.64s, Tokens: 245
+
+Window 116:
+Description Time: 1.51s, Tokens: 245
+Classification Time: 1.71s, Tokens: 258
+
+Window 117:
+Description Time: 1.11s, Tokens: 235
+Classification Time: 0.60s, Tokens: 243
+
+Window 118:
+Description Time: 1.51s, Tokens: 259
+Classification Time: 0.63s, Tokens: 272
+
+Window 119:
+Description Time: 1.16s, Tokens: 286
+Classification Time: 0.64s, Tokens: 254
+
+Window 120:
+Description Time: 2.69s, Tokens: 262
+Classification Time: 0.53s, Tokens: 275
+
+Window 121:
+Description Time: 1.28s, Tokens: 232
+Classification Time: 0.73s, Tokens: 240
+
+Window 122:
+Description Time: 1.44s, Tokens: 237
+Classification Time: 1.28s, Tokens: 250
+
+Window 123:
+Description Time: 1.08s, Tokens: 238
+Classification Time: 0.50s, Tokens: 247
+
+Window 124:
+Description Time: 1.90s, Tokens: 495
+Classification Time: 0.55s, Tokens: 329
+
+Window 125:
+Description Time: 2.10s, Tokens: 434
+Classification Time: 0.54s, Tokens: 315
+
+Window 126:
+Description Time: 1.37s, Tokens: 256
+Classification Time: 0.61s, Tokens: 269
+
+Window 127:
+Description Time: 2.98s, Tokens: 425
+Classification Time: 0.53s, Tokens: 304
+
+Window 128:
+Description Time: 1.74s, Tokens: 252
+Classification Time: 0.64s, Tokens: 265
+
+Window 129:
+Description Time: 2.90s, Tokens: 365
+Classification Time: 1.32s, Tokens: 295
+
+Window 130:
+Description Time: 1.39s, Tokens: 296
+Classification Time: 1.68s, Tokens: 270
+
+Window 131:
+Description Time: 1.16s, Tokens: 240
+Classification Time: 0.56s, Tokens: 248
+
+Window 132:
+Description Time: 1.08s, Tokens: 227
+Classification Time: 0.92s, Tokens: 237
+
+Window 133:
+Description Time: 1.07s, Tokens: 278
+Classification Time: 0.73s, Tokens: 244
+
+Window 134:
+Description Time: 1.30s, Tokens: 245
+Classification Time: 1.30s, Tokens: 258
+
+Window 135:
+Description Time: 2.05s, Tokens: 495
+Classification Time: 0.85s, Tokens: 331
+
+Window 136:
+Description Time: 2.19s, Tokens: 357
+Classification Time: 0.93s, Tokens: 286
+
+Window 137:
+Description Time: 2.04s, Tokens: 324
+Classification Time: 0.71s, Tokens: 297
+
+Window 138:
+Description Time: 1.60s, Tokens: 404
+Classification Time: 0.85s, Tokens: 282
+
+Window 139:
+Description Time: 2.16s, Tokens: 252
+Classification Time: 0.50s, Tokens: 260
+
+Window 140:
+Description Time: 2.51s, Tokens: 483
+Classification Time: 0.63s, Tokens: 320
+
+Window 141:
+Description Time: 1.47s, Tokens: 245
+Classification Time: 0.55s, Tokens: 258
+
+Window 142:
+Description Time: 3.37s, Tokens: 351
+Classification Time: 0.51s, Tokens: 277
+
+Window 143:
+Description Time: 1.48s, Tokens: 267
+Classification Time: 0.53s, Tokens: 280
+
+Window 144:
+Description Time: 1.20s, Tokens: 235
+Classification Time: 0.61s, Tokens: 243
+
+Window 145:
+Description Time: 1.36s, Tokens: 249
+Classification Time: 0.69s, Tokens: 262
+
+Window 146:
+Description Time: 1.21s, Tokens: 235
+Classification Time: 0.45s, Tokens: 243
+
+Window 147:
+Description Time: 1.43s, Tokens: 261
+Classification Time: 0.62s, Tokens: 274
+
+Window 148:
+Description Time: 1.44s, Tokens: 236
+Classification Time: 0.60s, Tokens: 244
+
+Window 149:
+Description Time: 1.65s, Tokens: 261
+Classification Time: 0.62s, Tokens: 270
+
+Window 150:
+Description Time: 2.49s, Tokens: 415
+Classification Time: 0.63s, Tokens: 296
+
+Window 151:
+Description Time: 2.54s, Tokens: 501
+Classification Time: 0.69s, Tokens: 338
+
+Window 152:
+Description Time: 1.56s, Tokens: 260
+Classification Time: 0.47s, Tokens: 273
+
+Window 153:
+Description Time: 1.39s, Tokens: 236
+Classification Time: 0.80s, Tokens: 244
+
+Window 154:
+Description Time: 2.77s, Tokens: 530
+Classification Time: 0.61s, Tokens: 374
+
+Window 155:
+Description Time: 1.68s, Tokens: 259
+Classification Time: 0.63s, Tokens: 272
+
+Window 156:
+Description Time: 1.31s, Tokens: 235
+Classification Time: 0.57s, Tokens: 243
+
+Window 157:
+Description Time: 1.75s, Tokens: 267
+Classification Time: 0.55s, Tokens: 280
+
+Window 158:
+Description Time: 1.39s, Tokens: 234
+Classification Time: 0.53s, Tokens: 242
+
+Window 159:
+Description Time: 1.29s, Tokens: 240
+Classification Time: 0.56s, Tokens: 253
+
+Window 160:
+Description Time: 1.09s, Tokens: 231
+Classification Time: 0.64s, Tokens: 240
+
+Window 161:
+Description Time: 3.28s, Tokens: 485
+Classification Time: 0.82s, Tokens: 319
+
+Window 162:
+Description Time: 2.32s, Tokens: 250
+Classification Time: 0.70s, Tokens: 258
+
+Window 163:
+Description Time: 1.14s, Tokens: 231
+Classification Time: 0.78s, Tokens: 240
+
+Window 164:
+Description Time: 2.65s, Tokens: 502
+Classification Time: 0.54s, Tokens: 339
+
+Window 165:
+Description Time: 1.37s, Tokens: 245
+Classification Time: 0.77s, Tokens: 258
+
+Window 166:
+Description Time: 1.16s, Tokens: 231
+Classification Time: 0.60s, Tokens: 239
+
+Window 167:
+Description Time: 1.78s, Tokens: 295
+Classification Time: 0.58s, Tokens: 262
+
+Window 168:
+Description Time: 1.54s, Tokens: 260
+Classification Time: 0.54s, Tokens: 273
+
+Window 169:
+Description Time: 1.31s, Tokens: 245
+Classification Time: 0.47s, Tokens: 253
+
+Window 170:
+Description Time: 1.69s, Tokens: 299
+Classification Time: 0.60s, Tokens: 266
+
+Window 171:
+Description Time: 1.62s, Tokens: 269
+Classification Time: 0.94s, Tokens: 282
+
+Window 172:
+Description Time: 1.16s, Tokens: 230
+Classification Time: 0.70s, Tokens: 238
+
+Window 173:
+Description Time: 1.43s, Tokens: 261
+Classification Time: 0.50s, Tokens: 270
+
+Window 174:
+Description Time: 1.27s, Tokens: 235
+Classification Time: 1.12s, Tokens: 243
+
+Window 175:
+Description Time: 1.37s, Tokens: 252
+Classification Time: 0.57s, Tokens: 260
+
+Window 176:
+Description Time: 1.90s, Tokens: 419
+Classification Time: 0.73s, Tokens: 300
+
+Window 177:
+Description Time: 1.38s, Tokens: 247
+Classification Time: 0.57s, Tokens: 260
+
+Window 178:
+Description Time: 2.21s, Tokens: 441
+Classification Time: 0.69s, Tokens: 317
+
+Window 179:
+Description Time: 1.46s, Tokens: 258
+Classification Time: 0.63s, Tokens: 271
+

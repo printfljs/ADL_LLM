@@ -1,15 +1,11 @@
 Classification Report:
-Micro-F1 Score (Global): 0.5211581291759465
-Macro-F1 Score (Class Average): 0.1658496772045159
-Weighted F1 Score (Weighted Average): 0.6574199747483819
-Sample-average F1 Score (Sample Average): 0.5225225225225225
-Mean Jaccard Similarity: 0.5202702702702703
+Micro-F1 Score (Global): 0.6531531531531531
+Macro-F1 Score (Class Average): 0.24053013514231056
+Weighted F1 Score (Weighted Average): 0.7527000702093748
+Sample-average F1 Score (Sample Average): 0.6550925925925926
+Mean Jaccard Similarity: 0.6473765432098766
 
 F1 Score per Class:
-    Bathing: 0.0
-
-    Getting Snack: 0.0
-
     Leaving Home: 0.0
 
     Leaving home: 0.0
@@ -28,10 +24,6 @@ F1 Score per Class:
 
     Preparing breakfast: 0.0
 
-    Preparing dinner: 0.0
-
-    Preparing lunch: 0.0
-
     Relaxing on Couch: 0.0
 
     Relaxing on couch: 0.0
@@ -44,25 +36,21 @@ F1 Score per Class:
 
     Snacking: 0.0
 
-    Using Toilet: 0.0
+    leaving home: 0.6666666666666666
 
-    leaving home: 0.5806451612903226
+    personal care: 0.7956989247311828
 
-    personal care: 0.7142857142857143
+    preparing breakfast: 0.6956521739130435
 
-    preparing breakfast: 0.6666666666666666
+    preparing lunch: 0.5217391304347826
 
-    preparing dinner: 0.0
-
-    preparing lunch: 0.46153846153846156
-
-    relaxing on couch: 0.696969696969697
+    relaxing on couch: 0.7945205479452054
 
     returning home: 0.0
 
-    showering: 0.6
+    showering: 0.782608695652174
 
-    sleeping: 0.64
+    sleeping: 0.6923076923076923
 
-    snacking: 0.6153846153846154
+    snacking: 0.8235294117647058
 

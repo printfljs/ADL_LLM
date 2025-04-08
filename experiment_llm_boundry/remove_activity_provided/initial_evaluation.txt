@@ -1,0 +1,228 @@
+Classification Report:
+Micro-F1 Score (Global): 0.0
+Macro-F1 Score (Class Average): 0.0
+Weighted F1 Score (Weighted Average): 0.0
+Sample-average F1 Score (Sample Average): 0.0
+Mean Jaccard Similarity: 0.0
+
+F1 Score per Class:
+    Accessing Bathroom Cabinet: 0.0
+
+    Accessing Cabinet: 0.0
+
+    Accessing Cupboard: 0.0
+
+    Accessing Fridge: 0.0
+
+    Accessing Kitchen Cupboard: 0.0
+
+    Accessing Kitchen Fridge: 0.0
+
+    Basin PIR: 0.0
+
+    Basin Use: 0.0
+
+    Bathing: 0.0
+
+    Bed Pressure: 0.0
+
+    Bed Rest: 0.0
+
+    Cabinet Access: 0.0
+
+    Cabinet Magnetic: 0.0
+
+    Checking fridge: 0.0
+
+    Cooking: 0.0
+
+    Cooking in Kitchen: 0.0
+
+    Cooking on the cooktop: 0.0
+
+    Cooktop Use: 0.0
+
+    Cupboard Access: 0.0
+
+    Cupboard Open: 0.0
+
+    Cupboard Opening: 0.0
+
+    Entering: 0.0
+
+    Entering Home: 0.0
+
+    Entering House: 0.0
+
+    Entering the House: 0.0
+
+    Entering the house: 0.0
+
+    Entering through main door: 0.0
+
+    Entrance Access: 0.0
+
+    Exiting: 0.0
+
+    Exiting Home: 0.0
+
+    Exiting the House: 0.0
+
+    Exiting through main door: 0.0
+
+    Flush Toilet: 0.0
+
+    Flushing Toilet: 0.0
+
+    Flushing the toilet: 0.0
+
+    Fridge Access: 0.0
+
+    Fridge Open: 0.0
+
+    Fridge Opening: 0.0
+
+    Hand Washing: 0.0
+
+    Microwave Use: 0.0
+
+    Microwaving: 0.0
+
+    Open Cupboard: 0.0
+
+    Open Fridge: 0.0
+
+    Open Maindoor: 0.0
+
+    Opening Cabinet: 0.0
+
+    Opening Cupboard: 0.0
+
+    Opening Cupboard in Kitchen: 0.0
+
+    Opening Fridge: 0.0
+
+    Opening Fridge in Kitchen: 0.0
+
+    Opening Main Door: 0.0
+
+    Opening cupboard: 0.0
+
+    Opening fridge: 0.0
+
+    Opening the bathroom cabinet: 0.0
+
+    Opening the fridge: 0.0
+
+    Opening the kitchen cupboard: 0.0
+
+    Seat Pressure: 0.0
+
+    Seated Activity: 0.0
+
+    Seated in Living Room: 0.0
+
+    Seating: 0.0
+
+    Seating in Living Room: 0.0
+
+    Shower: 0.0
+
+    Showering: 0.0
+
+    Sitting: 0.0
+
+    Sitting in Living Room: 0.0
+
+    Sitting in living room: 0.0
+
+    Sitting in the living room: 0.0
+
+    Sitting on Seat: 0.0
+
+    Sleeping: 0.0
+
+    Sleeping in Bedroom: 0.0
+
+    Sleeping in bed: 0.0
+
+    Sleeping in the bedroom: 0.0
+
+    Taking Shower: 0.0
+
+    Taking Shower in Bathroom: 0.0
+
+    Taking a shower: 0.0
+
+    Toaster Electric: 0.0
+
+    Toaster Use: 0.0
+
+    Toasting: 0.0
+
+    Toilet Flush: 0.0
+
+    Toilet Use: 0.0
+
+    Using Basin: 0.0
+
+    Using Basin in Bathroom: 0.0
+
+    Using Bathroom Basin: 0.0
+
+    Using Bathroom Cabinet: 0.0
+
+    Using Bathroom Toilet: 0.0
+
+    Using Cabinet: 0.0
+
+    Using Cooktop: 0.0
+
+    Using Cupboard: 0.0
+
+    Using Fridge: 0.0
+
+    Using Kitchen Fridge: 0.0
+
+    Using Microwave: 0.0
+
+    Using Microwave in Kitchen: 0.0
+
+    Using Toaster: 0.0
+
+    Using Toilet: 0.0
+
+    Using basin: 0.0
+
+    Using microwave: 0.0
+
+    Using the bathroom basin: 0.0
+
+    Using the bathroom cabinet: 0.0
+
+    Using the bathroom sink: 0.0
+
+    Using the kitchen cupboard: 0.0
+
+    Using the microwave: 0.0
+
+    Using the toaster in the kitchen: 0.0
+
+    Using toaster: 0.0
+
+    leaving home: 0.0
+
+    personal care: 0.0
+
+    preparing breakfast: 0.0
+
+    preparing lunch: 0.0
+
+    relaxing on couch: 0.0
+
+    showering: 0.0
+
+    sleeping: 0.0
+
+    snacking: 0.0
+
